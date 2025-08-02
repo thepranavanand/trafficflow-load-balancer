@@ -183,11 +183,7 @@ This project demonstrates:
 - **Distributed systems** architecture patterns
 - **Real-time web interfaces** with SSE communication
 
-## Resume Impact
 
-**Before:** "Built multithreaded server comparison"
-
-**After:** "Implemented basic load balancer with real-time dashboard, demonstrating three-tier server architecture (single-threaded, thread-pool, multi-threaded) with circuit breaker pattern for fault tolerance and SSE-based real-time monitoring."
 
 ## Technical Stack
 - **Java**: Server implementations, concurrent programming
@@ -234,14 +230,3 @@ This project demonstrates:
 └── README.md                    # This file
 ```
 
-## Next Steps
-- Add unit tests for better code quality
-- Implement proper logging framework
-- Add database integration for metrics persistence
-- Implement REST API endpoints  
-- Add Docker containerization
-- Add authentication and security features
-
----
-
-**Ready to demonstrate your distributed systems knowledge!**
